@@ -3,22 +3,20 @@
 
 ## About
 
-Being a big fan of Lion Den’s Fight Club 5e and Game Master 5e apps for iOS and Android I was happy to see a kind soul (@fightclub5exml on twitter) had picked up the mantle of updating the compendium with content.
+We have been a dedicated group of D&D fans who manually added XML for Lion's Den Fight Club 5e and Game Master 5e apps. We've now found a reliable source to auto-generate the XML, and have transitioned to that as of November 2020. If you have feedback, follow the instructions in [Issues](#Issues).
 
-Unfortunately he seems to have deleted his twitter account so I am picking up where he left off by expanding on his work by adding Waterdeep Dragon Heist, Waterdeep Dungeon of the Mad Mage and Ghosts of Saltmarsh content to the XML.
-
-Will take some time but will be making my way through each book and adding the items and monsters to bring it up to date.
-
-Any questions hit me up on twitter [@dragonahcas](http://twitter.com/dragonahcas).
+We are unaffiliated with Lion's Den and Wizards of the Coast.
 
 
 ## How-To
 
-Import one of the Collection files into the Fight Club app.
+Import only one of the Collection files into the Fight Club app.
+
+**Everything**: Newly formatted XML that includes all rulebooks, supplements, adventures, Unearthed Arcana, and some miscellaneous and unofficial content, like Plane Shift and Adventurers League.
 
 **CoreRulebooks**: Player's Handbook, Dungeon Master's Guide, and Monster Manual
 
-**CoreRulebooksAndSupplements**: _CoreRulebooks_ plus Rulebook Supplements (XGtE, MToF, VGtM, SCAG, GGtR, WGtE, ERftLW, AI, EGtW, MFF, Tortle Package, and One Grung Above)
+**CoreRulebooksAndSupplements**: _CoreRulebooks_ plus Rulebook Supplements (XGtE, MToF, VGtM, SCAG, GGtR, WGtE, ERftLW, AI, EGtW, MFF, Tortle Package, One Grung Above, MOoT)
 
 **CoreOnly**: _CoreRulebooksAndSupplements_ plus Adventures
 
@@ -33,18 +31,24 @@ Import one of the Collection files into the Fight Club app.
 
 ## Additional Contributors
 
-`@kinkofer` for XML generation systems to allow github collections to be auto generated
+`@kinkofer` for XML generation systems to allow github collections to be auto generated.
 
-`@felix_mil_` for XML creation tools [https://felixmil.shinyapps.io/compendiumbuildr/](https://felixmil.shinyapps.io/compendiumbuildr/)
+`@felix_mil_` for XML creation tools [https://felixmil.shinyapps.io/compendiumbuildr/](https://felixmil.shinyapps.io/compendiumbuildr/).
 
-`@rrgeorge` and `zamrod` for their JSON to XML scripts
+`@rrgeorge` and `zamrod` for their JSON to XML scripts.
 
-`@MrFarland` for Artificer Infusions and other XML
+`@MrFarland` for Artificer Infusions and other XML.
+
+`@fightclub5exml` and `@dragonahcas` for carrying the mantle.
+
 
 ## Contribute
 
-Visit the [FightClub5eXML Github](https://github.com/kinkofer/FightClub5eXML) to contribute.
+Visit the [FightClub5eXML GitHub](https://github.com/kinkofer/FightClub5eXML) to contribute. Although we are not accepting manual changes to the XML data, we are open to your feedback.
+
+The GitHub repository has instructions for creating your own compendium, allowing you to choose only the sources you'd like to import into your app.
+
 
 ## Issues
 
-Find a mistake in the compendium? Report it on our [Github Issues](https://github.com/kinkofer/FightClub5eXML/issues).
+Find a mistake in the compendium? Report it on our [GitHub Issues](https://github.com/kinkofer/FightClub5eXML/issues). We'll try out best to report issues back to our source to fix.

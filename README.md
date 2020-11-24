@@ -5,14 +5,14 @@ Creating XML files of all official D&D sources compatible with Fight Club 5e and
 
 ## Usage
 
-Final XML files are released on a shared Dropbox. If you're here to import the files into your app, instructions are in the Dropbox.
+Final XML files are released on a [shared Dropbox](http://bit.ly/NewFCXml). If you're here to import the files into your app, please refer to the instructions in the link above.
 
 This repository is not an application in itself. But you can use it to build your own custom Compendium (see below).
 
 
 ## Contributing
 
-If you'd like to contribute, feel free to fork the repository and submit pull requests with your changes.
+If you'd like to contribute, feel free to fork the repository and submit pull requests with your changes. We are no longer accepting manual changes to the XML source files because these files are now generated from an external source.
 
 
 ## Development
